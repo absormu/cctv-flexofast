@@ -5,6 +5,9 @@ Camera CCTV Flexofast
 
 #### BARDI Smart Indoor PTZ IP Camera Wireless
 #### BARDI Indoor STC IP Camera Wireless
+    [Trick] Monitoring Bardi IP Camera menggunakan Laptop | Disimpan Langsung ke Youtube
+    https://youtu.be/qI8QZN72a-I
+    
 
 #### EZVIZ C6N IP Camera Wireless
 
