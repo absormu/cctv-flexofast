@@ -2,9 +2,8 @@
 Camera CCTV Flexofast
 
 ## Existing 
-### Camera Bardi
-#### BARDI Smart Indoor PTZ
-#### BARDI Indoor STC
 
-### Camera Ezviz
-#### EZVIZ C6N
+#### BARDI Smart Indoor PTZ IP Camera Wireless
+#### BARDI Indoor STC IP Camera Wireless
+
+#### EZVIZ C6N IP Camera Wireless
