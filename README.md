@@ -10,6 +10,8 @@ Camera CCTV Flexofast
     
 
 #### EZVIZ C6N IP Camera Wireless
+    Cara Mengaktifkan Ezviz Advanced Setting - Pengaturan Lanjutan Kamera Ezviz
+    https://www.youtube.com/watch?v=uEeErDuhfF8
 
 ## Document
 
