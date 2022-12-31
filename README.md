@@ -4,6 +4,8 @@ Camera CCTV Flexofast
 ## Existing 
 
 #### BARDI Smart Indoor PTZ IP Camera Wireless
+    cara mengkoneksikan ip cam (bardi) ke dvr ( hikvision)
+    https://www.youtube.com/watch?v=9H82TFrLSu8&t=155s
 #### BARDI Indoor Static TPD IP Camera Wireless
     [Trick] Monitoring Bardi IP Camera menggunakan Laptop | Disimpan Langsung ke Youtube
     https://youtu.be/qI8QZN72a-I
