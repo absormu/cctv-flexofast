@@ -18,7 +18,8 @@ Camera CCTV Flexofast
     https://www.youtube.com/watch?v=uEeErDuhfF8
     Cara Menambahkan Camera Ezviz ke DVR Hikvision
     https://www.youtube.com/watch?v=sYQI5pIcbJw
-    
+    Cara Hubungkan IP Camera EZVIZ ke NVR HikVision
+    https://www.youtube.com/watch?v=IzcwdD5Wvv8
 ### NVR HIKVISION DS-7616NI-K2
 
 
