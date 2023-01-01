@@ -29,18 +29,34 @@ https://docs.google.com/document/d/1pl9ZCDiBCkpVZDlfNPJa7v4Br9ahd7NyaGJu0C_TEAM/
 
 https://docs.google.com/document/d/1-9LpQ6vDUHrTCV16kdKesPROOdYYhnfligZCNYoWFpM/edit
 
-## MAPPING IP ADDRESS NVR & IPCAM
-
-|   |   |   |   |   |
+## MAPPING IP ADDRESS NVR, Access Point(Wifi) & IPCAM
+### NVR
+| No  |Nama   |Ip Address   |Lokasi   |Keterangan   |
 |---|---|---|---|---|
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
+|  1 |   |   |   |   |
+|  2 |   |   |   |   |
+|  3 |   |   |   |   |
+|  4 |   |   |   |   |
 
+### Access Point(Wifi)
+| No  |Nama   |Ip Address   |Lokasi   |Keterangan   |
+|---|---|---|---|---|
+|  1 |   |   |   |   |
+|  2 |   |   |   |   |
+|  3 |   |   |   |   |
+|  4 |   |   |   |   |
 
-### AKSES POINT
+### CAMERA Bardi
+| No  |Nama   |Ip Address   |Lokasi   |Keterangan   |
+|---|---|---|---|---|
+|  1 |   |   |   |   |
+|  2 |   |   |   |   |
+|  3 |   |   |   |   |
+|  4 |   |   |   |   |
+
     Ip Camera Sering Hilang dari NVR dan Harus Ditambahkan Ulang ke NVR, INI SOLUSINYA
     https://www.youtube.com/watch?v=c5_qsG8QiCw
+    
 #### NOTE
     IpAddress menggunakan IP Static
     Nama dan sandi wifi tidak boleh diganti,wifi tidak boleh disembunyikan/hidden karena camera tidak bisa menambahkan alamat wifi secara manual
