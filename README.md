@@ -20,8 +20,10 @@ Camera CCTV Flexofast
     https://www.youtube.com/watch?v=sYQI5pIcbJw
     Cara Hubungkan IP Camera EZVIZ ke NVR HikVision
     https://www.youtube.com/watch?v=IzcwdD5Wvv8
-### NVR HIKVISION DS-7616NI-K2 (yang interface RJ45 1 saja https://tokopedia.link/iKEfnaKzewb)
-
+### NVR HIKVISION DS-7616NI-K2 (yang interface RJ45 1 saja )
+    link beli
+    https://tokopedia.link/iKEfnaKzewb
+    https://tokopedia.link/Yu0TAaOhfwb
 
 ## Document
 
