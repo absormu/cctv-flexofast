@@ -16,9 +16,21 @@ Camera CCTV Flexofast
     https://www.youtube.com/watch?v=uEeErDuhfF8
     Cara Menambahkan Camera Ezviz ke DVR Hikvision
     https://www.youtube.com/watch?v=sYQI5pIcbJw
+    
+### NVR HIKVISION DS-7616NI-K2
+
 
 ## Document
 
 https://docs.google.com/document/d/1pl9ZCDiBCkpVZDlfNPJa7v4Br9ahd7NyaGJu0C_TEAM/edit?usp=sharing
 
 https://docs.google.com/document/d/1-9LpQ6vDUHrTCV16kdKesPROOdYYhnfligZCNYoWFpM/edit
+
+## MAPPING IP ADDRESS NVR & IPCAM
+
+
+### AKSES POINT
+#### NOTE
+    IpAddress menggunakan IP Static
+    Nama dan sandi wifi tidak boleh diganti,wifi tidak boleh disembunyikan/hidden karena camera tidak bisa menambahkan alamat wifi secara manual
+     
