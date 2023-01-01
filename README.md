@@ -75,12 +75,12 @@ https://docs.google.com/document/d/1-9LpQ6vDUHrTCV16kdKesPROOdYYhnfligZCNYoWFpM/
     
     
 ### CAMERA BARDI Smart Indoor PTZ
-| No  |Nama   |Ip Address   |MAC Address   |NVR   |Wifi   |Lokasi   |Keterangan   |
-|---|---|---|---|---|---|---|---|
-|  1 |Camera Bardi   |192.168.1.10   |34:68:95:00:08:8f   |1   |2   |Main Room   |   |
-|  2 |   |   |   |   |   |   |   |
-|  3 |   |   |   |   |   |   |   |
-|  4 |   |   |   |   |   |   |   |
+| No  |Nama   |Ip Address   |MAC Address   |NVR   |Wifi   |Lokasi   |Username   |Password   |Verification Code   |Keterangan   |
+|---|---|---|---|---|---|---|---|---|---|---|
+|  1 |Camera Bardi   |192.168.1.10   |34:68:95:00:08:8f   |1   |2   |Main Room   |   |2   |Main Room   |   |
+|  2 |   |   |   |   |   |   |   |   |   |   |
+|  3 |   |   |   |   |   |   |   |   |   |   |
+|  4 |   |   |   |   |   |   |   |   |   |   |
 
 ### CAMERA Ezviz C6N
 | No  |Nama   |Ip Address   |MAC Address   |Lokasi   |Keterangan   |
