@@ -11,6 +11,10 @@ Camera CCTV Flexofast
     
     Cara connect Indoor CCTV ke NVR
     https://forum.bardi.co.id/forum/bardi-products-support/bardi-ip-camera-indoor-outdoor/2371-cara-connect-indoor-cctv-ke-nvr
+    
+    Cara Mengunci IP CCTV Agar Tidak Berubah (untuk terhubung ke NVR)
+    https://youtu.be/IkEDnrJEBLw
+    
 #### BARDI Indoor Static TPD IP Camera Wireless
     [Trick] Monitoring Bardi IP Camera menggunakan Laptop | Disimpan Langsung ke Youtube
     https://youtu.be/qI8QZN72a-I
