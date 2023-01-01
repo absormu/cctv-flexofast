@@ -6,6 +6,8 @@ Camera CCTV Flexofast
 #### BARDI Smart Indoor PTZ IP Camera Wireless
     cara mengkoneksikan ip cam (bardi) ke dvr ( hikvision)
     https://www.youtube.com/watch?v=9H82TFrLSu8&t=155s
+    Cara Menambahkan Ip Camera EZVIZ ke DVR HIKVISION dengan IP Static
+    https://www.youtube.com/watch?v=rql6IqQo00E&t=19s
 #### BARDI Indoor Static TPD IP Camera Wireless
     [Trick] Monitoring Bardi IP Camera menggunakan Laptop | Disimpan Langsung ke Youtube
     https://youtu.be/qI8QZN72a-I
@@ -27,6 +29,12 @@ https://docs.google.com/document/d/1pl9ZCDiBCkpVZDlfNPJa7v4Br9ahd7NyaGJu0C_TEAM/
 https://docs.google.com/document/d/1-9LpQ6vDUHrTCV16kdKesPROOdYYhnfligZCNYoWFpM/edit
 
 ## MAPPING IP ADDRESS NVR & IPCAM
+
+|   |   |   |   |   |
+|---|---|---|---|---|
+|   |   |   |   |   |
+|   |   |   |   |   |
+|   |   |   |   |   |
 
 
 ### AKSES POINT
