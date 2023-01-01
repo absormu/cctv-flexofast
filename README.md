@@ -77,7 +77,7 @@ https://docs.google.com/document/d/1-9LpQ6vDUHrTCV16kdKesPROOdYYhnfligZCNYoWFpM/
 ### CAMERA BARDI Smart Indoor PTZ
 | No  |Nama   |Ip Address   |MAC Address   |Lokasi   |Keterangan   |
 |---|---|---|---|---|---|
-|  1 |   |   |   |   |   |
+|  1 |Camera BArdi   |192.168.1.10   |34:68:95:00:08:8f   |Main Room   |   |
 |  2 |   |   |   |   |   |
 |  3 |   |   |   |   |   |
 |  4 |   |   |   |   |   |
