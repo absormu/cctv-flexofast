@@ -15,6 +15,9 @@ Camera CCTV Flexofast
     Cara Mengunci IP CCTV Agar Tidak Berubah (untuk terhubung ke NVR)/ Bindding Mac Address
     https://youtu.be/IkEDnrJEBLw
     
+    menghubungkan cctv BARDI ke NVR Dahua
+    https://youtu.be/U2qDnUTZ3y0
+    
 #### BARDI Indoor Static TPD IP Camera Wireless
     [Trick] Monitoring Bardi IP Camera menggunakan Laptop | Disimpan Langsung ke Youtube
     https://youtu.be/qI8QZN72a-I
