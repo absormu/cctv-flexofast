@@ -39,6 +39,8 @@ https://docs.google.com/document/d/1-9LpQ6vDUHrTCV16kdKesPROOdYYhnfligZCNYoWFpM/
 
 
 ### AKSES POINT
+    Ip Camera Sering Hilang dari NVR dan Harus Ditambahkan Ulang ke NVR, INI SOLUSINYA
+    https://www.youtube.com/watch?v=c5_qsG8QiCw
 #### NOTE
     IpAddress menggunakan IP Static
     Nama dan sandi wifi tidak boleh diganti,wifi tidak boleh disembunyikan/hidden karena camera tidak bisa menambahkan alamat wifi secara manual
