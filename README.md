@@ -8,6 +8,9 @@ Camera CCTV Flexofast
     https://www.youtube.com/watch?v=9H82TFrLSu8&t=155s
     Cara Menambahkan Ip Camera EZVIZ ke DVR HIKVISION dengan IP Static
     https://www.youtube.com/watch?v=rql6IqQo00E&t=19s
+    
+    Cara connect Indoor CCTV ke NVR
+    https://forum.bardi.co.id/forum/bardi-products-support/bardi-ip-camera-indoor-outdoor/2371-cara-connect-indoor-cctv-ke-nvr
 #### BARDI Indoor Static TPD IP Camera Wireless
     [Trick] Monitoring Bardi IP Camera menggunakan Laptop | Disimpan Langsung ke Youtube
     https://youtu.be/qI8QZN72a-I
