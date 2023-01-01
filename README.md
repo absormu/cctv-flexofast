@@ -12,7 +12,7 @@ Camera CCTV Flexofast
     Cara connect Indoor CCTV ke NVR
     https://forum.bardi.co.id/forum/bardi-products-support/bardi-ip-camera-indoor-outdoor/2371-cara-connect-indoor-cctv-ke-nvr
     
-    Cara Mengunci IP CCTV Agar Tidak Berubah (untuk terhubung ke NVR)
+    Cara Mengunci IP CCTV Agar Tidak Berubah (untuk terhubung ke NVR)/ Bindding Mac Address
     https://youtu.be/IkEDnrJEBLw
     
 #### BARDI Indoor Static TPD IP Camera Wireless
