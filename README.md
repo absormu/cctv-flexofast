@@ -15,6 +15,9 @@ Camera CCTV Flexofast
     Cara Mengunci IP CCTV Agar Tidak Berubah (untuk terhubung ke NVR)/ Bindding Mac Address
     https://youtu.be/IkEDnrJEBLw
     
+    Cara Melihat Mac Address
+    https://forum.bardi.co.id/forum/bardi-smart-bulb-9w-rgb/1534-mac-address
+    
     menghubungkan cctv BARDI ke NVR Dahua
     https://youtu.be/U2qDnUTZ3y0
     
