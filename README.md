@@ -18,6 +18,9 @@ Camera CCTV Flexofast
     Cara Melihat Mac Address
     https://forum.bardi.co.id/forum/bardi-smart-bulb-9w-rgb/1534-mac-address
     
+    Menghubungkan CCTV BARDI ke NVR.. susah nggak sih...
+    https://forum.bardi.co.id/forum/bardi-products-support/bardi-ip-camera-indoor-outdoor/3365-menghubungkan-cctv-bardi-ke-nvr-susah-nggak-sih
+    
     menghubungkan cctv BARDI ke NVR Dahua
     https://youtu.be/U2qDnUTZ3y0
     
