@@ -40,6 +40,10 @@ Camera CCTV Flexofast
     Cara Hubungkan IP Camera EZVIZ ke NVR HikVision
     https://www.youtube.com/watch?v=IzcwdD5Wvv8
 ### NVR HIKVISION DS-7616NI-K2 (yang interface RJ45 1 saja DS-7616NI-Q1 atau DS-7616NI-Q2)
+
+    CARA MENGGABUNGKAN BEBERAPA DVR DALAM SATU JARINGAN, TUTORIAL MENGGABUNGKAN 2 DVR ATAU LEBIH
+    https://www.youtube.com/watch?v=uNYb5ZYdA5k&t=146s
+
     DS-7616NI-Q1
     NEW HIKVISION NVR 16CH / 16 CHANNEL DS-7616NI-Q1 support H.265
     https://tokopedia.link/iKEfnaKzewb
