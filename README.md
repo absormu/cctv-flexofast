@@ -43,6 +43,10 @@ Camera CCTV Flexofast
 
     CARA MENGGABUNGKAN BEBERAPA DVR DALAM SATU JARINGAN, TUTORIAL MENGGABUNGKAN 2 DVR ATAU LEBIH
     https://www.youtube.com/watch?v=uNYb5ZYdA5k&t=146s
+    Cara Menampilkan Multiple DVR Pada Satu Layar Menggunakan CMS Software
+    https://e-gre.blogspot.com/2014/06/cara-menampilkan-multiple-dvr-pada-satu.html
+    Multiple Monitoring DVR (NEW)
+    https://e-gre.blogspot.com/2018/12/multiple-monitoring-dvr.html
 
     DS-7616NI-Q1
     NEW HIKVISION NVR 16CH / 16 CHANNEL DS-7616NI-Q1 support H.265
