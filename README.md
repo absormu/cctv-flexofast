@@ -39,6 +39,9 @@ Camera CCTV Flexofast
     https://www.youtube.com/watch?v=sYQI5pIcbJw
     Cara Hubungkan IP Camera EZVIZ ke NVR HikVision
     https://www.youtube.com/watch?v=IzcwdD5Wvv8
+    Cara Setting Babycam Ezviz ke NVR Hikvision
+    https://www.infosistemkeamanan.com/2021/05/cara-setting-babycam-ezviz-ke-NVR-Hikvision.html
+    
 ### NVR HIKVISION DS-7616NI-K2 (yang interface RJ45 1 saja DS-7616NI-Q1 atau DS-7616NI-Q2)
 
     CARA MENGGABUNGKAN BEBERAPA DVR DALAM SATU JARINGAN, TUTORIAL MENGGABUNGKAN 2 DVR ATAU LEBIH
