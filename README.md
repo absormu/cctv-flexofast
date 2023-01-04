@@ -47,6 +47,8 @@ Camera CCTV Flexofast
     https://e-gre.blogspot.com/2014/06/cara-menampilkan-multiple-dvr-pada-satu.html
     Multiple Monitoring DVR (NEW)
     https://e-gre.blogspot.com/2018/12/multiple-monitoring-dvr.html
+    Cara setting software IVMS hikvision di komputer terbaru 2020
+    https://www.infosistemkeamanan.com/2020/03/cara-setting-software-ivms-hikvision-terbaru-2020.html
 
     DS-7616NI-Q1
     NEW HIKVISION NVR 16CH / 16 CHANNEL DS-7616NI-Q1 support H.265
